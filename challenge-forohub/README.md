@@ -1,4 +1,4 @@
-# Challenge LiterAlura
+# Challenge FOROHUB
 
 Esta API simula el funcionamiento de un foro a través de operaciones CRUD.
 

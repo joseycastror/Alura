@@ -21,9 +21,3 @@ El programa permite al usuario las siguientes operaciones:
 
 Para un uso más detallado de los *endpoints* disponibles, puede revisarse la documentación en **Swagger** en la ruta ```/swagger-ui.html``` del servidor local una vez ejecutado el programa.
 
-Si desea únicamente **ejecutar el programa** y no explorar el código del proyecto, puede ejecutar el archivo **JAR** en el directorio ```/target``` del proyecto con el siguiente comando:
-
-~~~
-java -jar .\target\forohub-0.0.1-SNAPSHOT.jar --spring.profiles.active=prod
-~~~
-
